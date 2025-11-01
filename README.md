@@ -12,3 +12,12 @@ Paper Link: [VeriContaminated](https://arxiv.org/abs/2503.13572)
 ## Updates
 [update]: upload the Colab for Verilog-related CDD, Min-K% and TED evaluation by 10/04/2025.
 [update]: Paper has been accepted by IEEE International Conference on LLM-Aided Design (ICLAD), 2025
+
+## Citations
+```bibtex
+@article{wang2025vericontaminated,
+  title={VeriContaminated: Assessing LLM-driven Verilog coding for data contamination},
+  author={Wang, Zeng and Shao, Minghao and Bhandari, Jitendra and Mankali, Likhitha and Karri, Ramesh and Sinanoglu, Ozgur and Shafique, Muhammad and Knechtel, Johann},
+  journal={IEEE International Conference on LLM-Aided Design (ICLAD)},
+  year={2025}
+}
